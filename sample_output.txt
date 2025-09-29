@@ -1,0 +1,6 @@
+Expected Results:
+
+- INNER JOIN → Only students who are enrolled in courses
+- LEFT JOIN → All students, with NULL if no course
+- RIGHT JOIN → All courses, with NULL if no student
+- FULL JOIN → All students and all courses, NULLs where no match
