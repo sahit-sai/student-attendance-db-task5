@@ -1,6 +1,4 @@
----
 
-# 2) `schema.sql`
 ```sql
 -- schema.sql
 CREATE DATABASE IF NOT EXISTS student_attendance;
